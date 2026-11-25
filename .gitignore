@@ -1,0 +1,12 @@
+# never commit people's data, keys or run output
+secrets.env
+*.env
+config/outreach_settings.json
+data/
+output/
+logs/
+*.xlsx
+*.csv
+!examples/*.csv
+__pycache__/
+*.pyc

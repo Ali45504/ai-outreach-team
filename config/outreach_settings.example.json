@@ -1,0 +1,18 @@
+{
+ "_help": "Copy to outreach_settings.json and fill in. send_mode: draft = Gmail drafts you send yourself, send = the team sends by itself, spaced out. Times are New York time because n8n runs on that timezone.",
+ "region": "USA",
+ "send_mode": "draft",
+ "daily_new_limit": 25,
+ "followup_after_days": 4,
+ "max_followups": 1,
+ "followup_daily_limit": 25,
+ "max_per_company_domain_per_day": 2,
+ "seconds_between_sends": 12,
+ "gmail_lookback_days": 4,
+ "sender_email": "you@yourdomain.com",
+ "report_to": "you@yourdomain.com",
+ "sender_name": "Your Name",
+ "telegram_handle": "@YourTelegram",
+ "signature": "Thanks,\nYour Name\nCreator Partnerships\nTelegram @YourTelegram",
+ "daily_run_time_new_york": "10:00"
+}

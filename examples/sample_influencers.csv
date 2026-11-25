@@ -1,0 +1,5 @@
+name,instagram,youtube,twitch,tiktok,email,country,extra
+Sample Creator One,https://instagram.com/sample_creator_one,,,,creator.one@example.com,USA,fictional demo row
+Sample Creator Two,,https://youtube.com/@samplecreatortwo,,,hello@example.com,United States,fictional demo row
+Sample Creator Three,,,https://twitch.tv/samplecreatorthree,,,USA,no email: lands at the bottom for manual research
+Sample Agency Row,https://instagram.com/sample_agency_talent,,,,talent@example.com,USA,managed by an agency
